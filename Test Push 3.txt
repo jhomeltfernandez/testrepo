@@ -1,0 +1,1 @@
+Alternatively, you can also execute stored procedure using SqlQuery method. As we have learned about DBContext.Database.SqlQuery method in previous chapter, SqlQuery method is useful to execute raw SQL query to the database. We have to use same method to execute database Stored Procedure.
